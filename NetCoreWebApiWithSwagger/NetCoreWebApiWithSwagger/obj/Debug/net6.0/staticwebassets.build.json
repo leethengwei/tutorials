@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mLILui6l8dpvqjxx0tFc1UeJ92OYn+V9MOI2q+B8KGo=",
+  "Source": "NetCoreWebApiWithSwagger",
+  "BasePath": "_content/NetCoreWebApiWithSwagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
